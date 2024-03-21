@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base:'/klpalace/vitepress/',
+  
   title: "kl",
   description: "A VitePress Site",
   themeConfig: {
