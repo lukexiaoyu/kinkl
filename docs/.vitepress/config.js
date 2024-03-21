@@ -11,6 +11,7 @@ export default defineConfig({
       { text: 'Home', link: '/' },
       { text: 'Examples', link: '/markdown-examples' },
       { text: 'One', link: '/one' },
+      { text: 'Two', link: '/two' },
     ],
 
     sidebar: [
